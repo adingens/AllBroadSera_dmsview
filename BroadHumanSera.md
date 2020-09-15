@@ -1,6 +1,6 @@
 # Mutational antigenic profiling of broad sera (purified IgG) responses 
 
-Adam S. Dingens, Jesse D. Bloom, in collaboration to Florian Klein's group
+Adam S. Dingens, Jesse D. Bloom, in collaboration to Florian Klein's group, including Philipp Schommers, Henning Gruell, and many others. 
 
 # Brief description
 We used mutational antigenic profiling with BG505.T332N libraries to map how all mutations to Env affect neutralization of purified IgG from numerous patients with broad serum responses. 
@@ -37,7 +37,6 @@ The mutation-metrics (logoplot) include
 Each sera was run a different number of times. In the table below, we have the each replicate for each sera (or mAb). More detailed data exists in the analysis repo. 
 1-18 and 2-12, mAbs isolated from patient IDC0561, are also included here.
 QA013-2282dpi is sera at 2282 days post infection from QA013 (Julie Overbaugh), and QA013-2 is a mAb isolated from that patient. These samples would likely not be included in any publication on this cohort, but are included here for reference. 
-
 
 - **sera** is the sera / purified IgG /  mAb studied. The number of times it appears below is the number of replicates performed. I **have not** extensively pruned noisy replicates from this data. 
 - **concentration-replicate** indicates the IgG (or mAb) concentration used during selection, as well as the viral library replicate for that experiment. 
