@@ -9,10 +9,10 @@ We used mutational antigenic profiling with BG505.T332N libraries to map how all
 For many sera, there is a clear dominant neutralizing epitope **to BG505**. This is oftentimes a characterized bnAb epitope. 
 
 - IDF147 and IDC0136 target the apex bnAb epitope.
-- IDC208, IDC0396, IDF0337, IDC0245, IDC0191 and IDF403 targets the N322 glycan epitope, but with residue level specificity differing, as expected. Interestingly, IDF141 targets the V3 loop and 156 glycan but not the N332 glycan).
+- IDC208, IDC0396, IDF0337, IDC0245, IDC0191 and IDC403 targets the N322 glycan epitope, but with residue level specificity differing, as expected. Interestingly, IDF141 targets the V3 loop and 156 glycan but not the N332 glycan).
 - IDF065 targets the C3/V5 epitope often elicited with trimer immunization.  
 - IDF033 targets CD4bs, specifically the N276 glycan.
-- Other sera are noisier; we cannot currently disentangle if this is due to targeting very conserved sites (such as the CD4bs, as we know for IDC561), multiple sites, or technical noise in the assay. 
+- Other sera are noisier; we cannot currently disentangle if this is due to targeting very conserved sites (such as the CD4bs, as we know for IDC561)ß, multiple sites, or technical noise in the assay. 
 
 # Description of selection statistics
 
