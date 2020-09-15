@@ -2,7 +2,7 @@
 
 Adam S. Dingens, Jesse D. Bloom, in collaboration to Florian Klein's group
 
-To view the data from XX using [`dms-view`](dms-view.github.io) you need three files: a [data file](process_BroadHumanSera.csv), a [protein structure file](5fyl_trimer_renumber.pdb), and a [metadata file](BroadHumanSera.md).
+To view the data using [`dms-view`](dms-view.github.io) you need three files: a [data file](process_BroadHumanSera.csv), a [protein structure file](5fyl_trimer_renumber.pdb), and a [metadata file](BroadHumanSera.md).
 
 ### files for [`dms-view`](dms-view.github.io)
 
